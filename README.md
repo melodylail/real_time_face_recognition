@@ -1,3 +1,7 @@
+# luqiang's update
+major website for detail description !!!
+https://zhuanlan.zhihu.com/p/25025596
+
 # real_time_face_detection and recognition
 This is a real time face detection and recognition project base  on opencv/tensorflow/mtcnn/facenet. Chinese version of description is [here](https://zhuanlan.zhihu.com/p/25025596) .Face detection is based on [MTCNN](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html).Face embedding is based on [Facenet](https://arxiv.org/abs/1503.03832).
 ##Workflow
